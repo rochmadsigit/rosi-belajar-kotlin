@@ -8,6 +8,7 @@ fun main(){
         "replace text from $from to $to"
     }
     println("result: $result")
+    println("Initial commit to Git/GitHub, Basic Structure and simple Clases.")
 
 
 
