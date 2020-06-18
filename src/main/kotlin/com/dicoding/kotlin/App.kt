@@ -9,6 +9,6 @@ fun main(){
     }
     println("result: $result")
     println("Initial commit to Git/GitHub, Basic Structure and simple Clases.")
-    println("ok lah")
+    println("ok lah basic structure dan classes nya")
 
 }
