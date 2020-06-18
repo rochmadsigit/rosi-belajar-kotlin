@@ -10,6 +10,4 @@ fun main(){
     println("result: $result")
     println("Initial commit to Git/GitHub, Basic Structure and simple Clases.")
 
-
-
 }
